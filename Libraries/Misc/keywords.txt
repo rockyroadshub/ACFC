@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Misc
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Misc	KEYWORD1
+Button	KEYWORD1
+A2DButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pcMonth	KEYWORD2
+pcDay	KEYWORD2
+pcYear	KEYWORD2
+pcHour	KEYWORD2
+pcMinute	KEYWORD2
+pcSecond	KEYWORD2
+incLoop	KEYWORD2
+decLoop	KEYWORD2
+convHour	KEYWORD2
+convMinute	KEYWORD2
+convSecond	KEYWORD2
+pressed	KEYWORD2
+pressed2	KEYWORD2
+pressed3	KEYWORD3
+pressed4	KEYWORD4
+register_sw KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+RUN_ONCE	LITERAL1
+TOGGLE	LITERAL1
+
+#######################################

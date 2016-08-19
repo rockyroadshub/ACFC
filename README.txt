@@ -33,26 +33,25 @@ II.	Libraries				Libraries needed for the project's source code
 III.Manuals					Manuals for different components used in the
 	1. Source File				project
 	2. ACFC Manual
-	3. ACFC Report
-	4. ATmega
-	5. Gizduino Compatibility
-	6. Gizduino Installation Guide
-	7. LCD 16x2 SC162A3 Datasheet
-	8. OMRON MY Relay Datasheet
-	9. PCB Etching
+	3. ATmega
+	4. Gizduino Compatibility
+	5. Gizduino Installation Guide
+	6. LCD 16x2 SC162A3 Datasheet
+	7. OMRON MY Relay Datasheet
+	8. PCB Etching
 
 IV.	Peripherals				Programs used for the project
 	1. gizDuinoPatch
 	2. PL2303 win7 installer
-	3. arduino-1.0.6-windows
 
 V.	Source Code				Code to be uploaded in the Gizduino ATmega
 						microcontroller
 -------------------------------------------------------------------------------------------------                                   
 Other Softwares used: (freewares)
 
-NAME		VERSION		DOWNLOAD LINK
+NAME		VERSION		WEBSITE
 
-Blender		2.73		http://www.blender.org/download/
-Fritzing	0.9.1b		http://www.fritzing.org/download/
+Blender		2.73		http://www.blender.org
+Fritzing	0.9.1b		http://www.fritzing.org
+Arduino IDE	1.0.6		http://www.arduino.cc
                       

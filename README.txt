@@ -1,6 +1,10 @@
 # ACFC
+Copyright 2016 Arnell Christoper D. Dalid
+
 ACFC Timer and Counter is a micro-controller based project that gets the time and 
 counts the number of power outages occurred.
+
+Licensed under GNU General Public License v3.0 (see license.txt)
 -------------------------------------------------------------------------------------------------
 PROJECT :   AC Fluctuation TImer and Counter
 VERSION :   1.0.0
